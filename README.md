@@ -30,7 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dilshanoshada"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dilshanoshada" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sldrago&show_icons=true&theme=dracula&text_color=ffffff&locale=en&layout=compact" alt="sldrago" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sldrago&show_icons=true&theme=dracula&text_color=ffffff&locale=en&layout=compact" alt="sldrago" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sldrago&show_icons=true&theme=dracula&text_color=ffffff&locale=en" alt="sldrago" /></p>
 

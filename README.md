@@ -4,15 +4,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SLDrago&icon=0&color=12)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **React, NodeJs, Express, Laravel**
+- 🌱 I’m currently learning **NodeJs, Android Development and GIS**
 
 - 📝 I regularly write articles on [https://medium.com/@dilshanoshada7](https://medium.com/@dilshanoshada7)
 
-- 💬 Ask me about **PHP, Java**
+- 💬 Ask me about **PHP, Java, React**
 
 - 📫 How to reach me **dilshanoshada7@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dilshan-oshada/](https://www.linkedin.com/in/dilshan-oshada/)
+  
+- 🌐 My Portfolio : [https://dilshanoshada.com/](https://dilshanoshada.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

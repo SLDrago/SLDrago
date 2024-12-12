@@ -4,7 +4,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SLDrago&icon=0&color=12)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **NodeJs, Android Development and GIS**
+- 🌱 I’m currently learning **NextJs, Android Development and GIS**
 
 - 📝 I regularly write articles on [https://medium.com/@dilshanoshada7](https://medium.com/@dilshanoshada7)
 
